@@ -9,9 +9,9 @@ a bot that shall interact and take commands based on which, it launched the webs
 
 # Official Veu Launch Bot Video
 
-[![Watch the video](https://img.youtube.com/vi/fZVqi2Brgac/maxresdefault.jpg)](https://youtu.be/fZVqi2Brgac)
+[![Watch the video](http://i3.ytimg.com/vi/Sb2BK2d5Vaw/hqdefault.jpg)](https://youtu.be/Sb2BK2d5Vaw)
 
-[![Watch the video](https://img.youtube.com/vi/Sb2BK2d5Vaw/maxresdefault.jpg)](https://youtu.be/Sb2BK2d5Vaw)
+[![Watch the video](http://i3.ytimg.com/vi/fZVqi2Brgac/hqdefault.jpg)](https://youtu.be/fZVqi2Brgac)
 
 
 # Author
