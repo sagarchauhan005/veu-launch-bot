@@ -1,4 +1,4 @@
-## Javascript Data Structure and Algorithm
+## Veu Launch
 
 This is fun project that I created when our founders had to launch our website. To launch a website is quite simple but I wanted to make it fun and interactive, thus I thought of creating
 a bot that shall interact and take commands based on which, it launched the website.
